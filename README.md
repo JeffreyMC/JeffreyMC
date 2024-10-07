@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JeffreyMC from Costa Rica, I'm a Software Engineer.
-- 🌱 I’m currently learning Linux System Administration 🐧.
 
 * My social media:
 [![Twitter Follow](https://img.shields.io/twitter/follow/JeffreyMC16?style=social)](https://twitter.com/JeffreyMC16)
