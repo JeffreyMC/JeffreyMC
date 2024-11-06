@@ -47,7 +47,7 @@ I'm always looking to expand my knowledge and skills, particularly in:
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [![Twitter Follow](https://img.shields.io/twitter/follow/JeffreyMC16?style=social)](https://twitter.com/JeffreyMC16). [![Mastodon](https://img.shields.io/badge/Mastodon-4B5B9A?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@jeffreymc)
+Feel free to connect with me on [![Twitter Follow](https://img.shields.io/twitter/follow/JeffreyMC16?style=social)](https://twitter.com/JeffreyMC16) [![Mastodon](https://img.shields.io/badge/Mastodon-4B5B9A?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@jeffreymc)
 
 ## 🌟 GitHub Stats
 
