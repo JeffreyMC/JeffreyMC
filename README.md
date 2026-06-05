@@ -49,10 +49,6 @@ I'm always looking to expand my knowledge and skills, particularly in:
 
 Feel free to connect with me on [![Twitter Follow](https://img.shields.io/twitter/follow/JeffreyMC16?style=social)](https://twitter.com/JeffreyMC16)
 
-## 🌟 GitHub Stats
-
-![JeffreyMC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffreyMC&show_icons=true&theme=radical)
-
 * :grin: Finally, a random joke for you: 
 
   ![Jokes Card](https://readme-jokes.vercel.app/api)
